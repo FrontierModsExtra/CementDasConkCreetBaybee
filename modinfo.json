@@ -1,0 +1,15 @@
+[
+	{
+		"type": "MOD_INFO",
+		"id": "conkcreet",
+
+		"name": "Cement? Das Conk Creet, Baybee",
+		"description": "why do you even have this mod",
+
+		"authors": ["Hyperseeker"],
+
+		"category": "items",
+
+		"dependencies": ["dda"]
+	}
+]
