@@ -1,0 +1,23 @@
+[
+	{
+		"id": "material_cement",
+		"copy-from": "material_cement",
+		"type": "AMMO",
+		"category": "spare_parts",
+
+		"name": {
+			"str_sp": "cement"
+		},
+		"description": "Cement? Das conk creet, baybee!"
+	},
+	{
+		"id": "concrete",
+		"copy-from": "concrete",
+		"type": "GENERIC",
+
+		"name": {
+			"str_sp": "conk creet"
+		},
+		"description": "Some conk creet, ready to be used in a construction project."
+	}
+]
